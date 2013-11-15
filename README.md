@@ -15,6 +15,10 @@ Sensor Cloud is a computation engine for sensor stream data.
 
 and read the 'Important' section and follow the instructions.
 
+To use ruby in your shell run this command:
+
+source /usr/local/rvm/scripts/rvm
+
 2. Download and compile the dependencies, and compile the project sources
  
         make install
